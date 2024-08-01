@@ -1,1 +1,2 @@
 hello welcome to Visual Studio Code
+welocme to git repository
